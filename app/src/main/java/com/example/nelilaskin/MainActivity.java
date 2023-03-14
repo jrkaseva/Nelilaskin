@@ -7,6 +7,10 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
+/**
+ * Author: Joakim Kaseva
+ * Last modified: 14.3.2023
+ */
 public class MainActivity extends AppCompatActivity {
     private EditText number1;
     private EditText number2;
