@@ -100,9 +100,5 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
             res.setText("Virhe syötteessä");
         }
-        catch (Exception e){
-            e.printStackTrace();
-            res.setText("Virhe jossain");
-        }
     }
 }
